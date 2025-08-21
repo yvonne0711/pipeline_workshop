@@ -9,7 +9,7 @@ on:
 
 # what should this do?
 jobs:
-  example workflow:
+  example-workflow:
     runs-on: ubuntu-latest
 
     steps:
